@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/">
+        <file>appletree.png</file>
+        <file>bird.png</file>
+        <file>ornament.png</file>
+        <file>icon.png</file>
+        <file>condor.png</file>
+        <file>goose.png</file>
+        <file>voron.png</file>
+        <file>back.jpg</file>
+        <file>style.css</file>
+    </qresource>
+</RCC>
